@@ -1,0 +1,27 @@
+{
+    "name": "api-books-and-authors",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "dist": "tsup src",
+      "start:dev": "tsx --env-file=.env src/server.ts",
+      "start:watch": "tsx watch --env-file=.env src/server.ts",
+      "start:dist": "npm run dist && node dist/server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "A simple REST API to manage books and authors.",
+    "devDependencies": {
+      "@types/cors": "^2.8.17",
+      "@types/express": "^4.17.21",
+      "@types/node": "^20.12.12",
+      "tsup": "^8.1.0",
+      "tsx": "^4.10.2",
+      "typescript": "^5.4.5"
+    },
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.19.2"
+    }
+  }

@@ -1,0 +1,266 @@
+  [
+    {
+      "id": 1,
+      "title": "The Hobbit",
+      "authorId": 1,
+      "genre": "Fantasy",
+      "publicationYear": 1937,
+      "pages": 310
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "authorId": 2,
+      "genre": "Dystopian",
+      "publicationYear": 1949,
+      "pages": 328
+    },
+    {
+      "id": 3,
+      "title": "Dom Casmurro",
+      "authorId": 3,
+      "genre": "Realism",
+      "publicationYear": 1899,
+      "pages": 256
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "authorId": 4,
+      "genre": "Romance",
+      "publicationYear": 1813,
+      "pages": 279
+    },
+    {
+      "id": 5,
+      "title": "One Hundred Years of Solitude",
+      "authorId": 5,
+      "genre": "Magical Realism",
+      "publicationYear": 1967,
+      "pages": 417
+    },
+    {
+      "id": 6,
+      "title": "The Metamorphosis",
+      "authorId": 6,
+      "genre": "Absurdist Fiction",
+      "publicationYear": 1915,
+      "pages": 55
+    },
+    {
+      "id": 7,
+      "title": "Kafka on the Shore",
+      "authorId": 7,
+      "genre": "Magical Realism",
+      "publicationYear": 2002,
+      "pages": 505
+    },
+    {
+      "id": 8,
+      "title": "The Hour of the Star",
+      "authorId": 8,
+      "genre": "Modernist",
+      "publicationYear": 1977,
+      "pages": 96
+    },
+    {
+      "id": 9,
+      "title": "The Old Man and the Sea",
+      "authorId": 9,
+      "genre": "Literary Fiction",
+      "publicationYear": 1952,
+      "pages": 127
+    },
+    {
+      "id": 10,
+      "title": "War and Peace",
+      "authorId": 10,
+      "genre": "Historical Fiction",
+      "publicationYear": 1869,
+      "pages": 1225
+    },
+    {
+      "id": 11,
+      "title": "Mrs Dalloway",
+      "authorId": 11,
+      "genre": "Modernist",
+      "publicationYear": 1925,
+      "pages": 194
+    },
+    {
+      "id": 12,
+      "title": "The Sound and the Fury",
+      "authorId": 12,
+      "genre": "Southern Gothic",
+      "publicationYear": 1929,
+      "pages": 326
+    },
+    {
+      "id": 13,
+      "title": "Blindness",
+      "authorId": 13,
+      "genre": "Dystopian",
+      "publicationYear": 1995,
+      "pages": 352
+    },
+    {
+      "id": 14,
+      "title": "Things Fall Apart",
+      "authorId": 14,
+      "genre": "Postcolonial Fiction",
+      "publicationYear": 1958,
+      "pages": 209
+    },
+    {
+      "id": 15,
+      "title": "The Feast of the Goat",
+      "authorId": 15,
+      "genre": "Historical Fiction",
+      "publicationYear": 2000,
+      "pages": 404
+    },
+    {
+      "id": 16,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "authorId": 16,
+      "genre": "Fantasy",
+      "publicationYear": 1997,
+      "pages": 223
+    },
+    {
+      "id": 17,
+      "title": "The Shining",
+      "authorId": 17,
+      "genre": "Horror",
+      "publicationYear": 1977,
+      "pages": 447
+    },
+    {
+      "id": 18,
+      "title": "The Stranger",
+      "authorId": 18,
+      "genre": "Philosophical Fiction",
+      "publicationYear": 1942,
+      "pages": 123
+    },
+    {
+      "id": 19,
+      "title": "Invisible Cities",
+      "authorId": 19,
+      "genre": "Postmodern",
+      "publicationYear": 1972,
+      "pages": 165
+    },
+    {
+      "id": 20,
+      "title": "The House of the Spirits",
+      "authorId": 20,
+      "genre": "Magical Realism",
+      "publicationYear": 1982,
+      "pages": 433
+    },
+    {
+      "id": 21,
+      "title": "Crime and Punishment",
+      "authorId": 21,
+      "genre": "Psychological Fiction",
+      "publicationYear": 1866,
+      "pages": 671
+    },
+    {
+      "id": 22,
+      "title": "The Handmaid's Tale",
+      "authorId": 22,
+      "genre": "Dystopian",
+      "publicationYear": 1985,
+      "pages": 311
+    },
+    {
+      "id": 23,
+      "title": "Ficciones",
+      "authorId": 23,
+      "genre": "Short Stories",
+      "publicationYear": 1944,
+      "pages": 174
+    },
+    {
+      "id": 24,
+      "title": "The Lion, the Witch and the Wardrobe",
+      "authorId": 24,
+      "genre": "Fantasy",
+      "publicationYear": 1950,
+      "pages": 208
+    },
+    {
+      "id": 25,
+      "title": "Kindred",
+      "authorId": 25,
+      "genre": "Science Fiction",
+      "publicationYear": 1979,
+      "pages": 264
+    },
+    {
+      "id": 26,
+      "title": "Ciranda de Pedra",
+      "authorId": 26,
+      "genre": "Modernist",
+      "publicationYear": 1954,
+      "pages": 271
+    },
+    {
+      "id": 27,
+      "title": "In Search of Lost Time",
+      "authorId": 27,
+      "genre": "Modernist",
+      "publicationYear": 1913,
+      "pages": 4215
+    },
+    {
+      "id": 28,
+      "title": "Poems",
+      "authorId": 28,
+      "genre": "Poetry",
+      "publicationYear": 1890,
+      "pages": 250
+    },
+    {
+      "id": 29,
+      "title": "A Rosa do Povo",
+      "authorId": 29,
+      "genre": "Poetry",
+      "publicationYear": 1945,
+      "pages": 224
+    },
+    {
+      "id": 30,
+      "title": "Siddhartha",
+      "authorId": 30,
+      "genre": "Philosophical Fiction",
+      "publicationYear": 1922,
+      "pages": 152
+    },
+    {
+      "id": 31,
+      "title": "Murder on the Orient Express",
+      "authorId": 31,
+      "genre": "Mystery",
+      "publicationYear": 1934,
+      "pages": 256
+    },
+    {
+      "id": 32,
+      "title": "Vestido de Noiva",
+      "authorId": 32,
+      "genre": "Drama",
+      "publicationYear": 1943,
+      "pages": 142
+    },
+    {
+      "id": 33,
+      "title": "Slaughterhouse-Five",
+      "authorId": 33,
+      "genre": "Science Fiction",
+      "publicationYear": 1969,
+      "pages": 275
+    }
+  ]
