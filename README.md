@@ -88,3 +88,5 @@ Todos os endpoints são prefixados com `/api`.
 | Método | Endpoint  | Descrição             | Resposta de Sucesso (Exemplo)                            |
 | :----- | :-------- | :-------------------- | :------------------------------------------------------- |
 | `GET`    | `/authors`  | Lista todos os autores. | `[{ "id": 1, "name": "J.R.R. Tolkien", ... }]` |
+
+### Progeto feito com a orientação do Felipão da DIO
